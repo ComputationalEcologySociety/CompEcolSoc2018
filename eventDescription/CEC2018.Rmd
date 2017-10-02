@@ -1,0 +1,38 @@
+---
+title: "Computationnal Ecology Conference"
+date: "01-10-2017"
+lang: en
+fontfamily: fourier
+linestretch: 1
+fontsize: 10pt
+lof: no
+output:
+    pdf_document:
+        highlight: kate
+        toc: no
+        toc_depth: 3
+        fig_caption: yes
+        keep_tex: yes
+        latex_engine: pdflatex
+        number_section: yes
+    html_document:
+        toc: no
+        toc_float: no
+---
+
+<!--
+pandoc CEC2018.Rmd -o 20170531-Meeting.html
+pandoc 20170531-Meeting.md --latex-engine=xelatex -o 20170531-Meeting.pdf
+-->
+
+# Computational Ecology Conference
+
+Computational ecology is now a full blown, emerging science (@ref), and the time is ripe for the organization of a conference gathering the young and innovative minds currently dedicating their research acumen to the development of this exciting field.
+
+We are therefore announcing the first conference on computational ecology!
+
+For students, by students is the motto behind this initiative and the event will be geared toward offering an experience allowing participants to share in a variety of ways. Over a full week of activity, the event will offer a mix between educational workshops, expert panel discussions, conferences and interactive coding sessions.
+
+Educational workshops will be offered over the first two days of the conference and will
+
+this conference will aim at providing tools for beginner and advanced computational ecologists, insightful conferences on hot topics in computational ecology and space and time for participants to code their way through different projects and perhaps even develop some exciting new collaborations.  
