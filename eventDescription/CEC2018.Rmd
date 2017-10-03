@@ -20,19 +20,13 @@ output:
         toc_float: no
 ---
 
-<!--
-pandoc CEC2018.Rmd -o 20170531-Meeting.html
-pandoc 20170531-Meeting.md --latex-engine=xelatex -o 20170531-Meeting.pdf
--->
 
 # Computational Ecology Conference
 
-Computational ecology is now a full blown, emerging science (@ref), and the time is ripe for the organization of a conference gathering the young and innovative minds currently dedicating their research acumen to the development of this exciting field.
+Computational ecology is now a full blown, [emerging science](http://rsfs.royalsocietypublishing.org/content/2/2/241), and the time is ripe for a conference gathering the young and innovative minds currently dedicating their research acumen to the development of this exciting field. For students, by students, the event will offer an experience allowing participants to share in a variety of ways through a mix between educational workshops, expert panel discussions, conferences and interactive coding sessions.
 
-We are therefore announcing the first conference on computational ecology!
+Over a full week of activities in the beautiful city of Montreal, participants will first be invited to participate to educational workshops. Beginners will have the opportunity to participate to a full two day [Software Carpenty](https://software-carpentry.org/) workshop, while more advanced participants will be able to choose from a selection of [Data Carpentry](http://www.datacarpentry.org/) workshops and special topics in advanced R programming. The following two days will be dedicated to conferences, poster sessions, expert panels and code sprints. Finally the last day will be dedicated to a multi-hour hack'a'thon and networking time.
 
-For students, by students is the motto behind this initiative and the event will be geared toward offering an experience allowing participants to share in a variety of ways. Over a full week of activity, the event will offer a mix between educational workshops, expert panel discussions, conferences and interactive coding sessions.
 
-Educational workshops will be offered over the first two days of the conference and will
 
-this conference will aim at providing tools for beginner and advanced computational ecologists, insightful conferences on hot topics in computational ecology and space and time for participants to code their way through different projects and perhaps even develop some exciting new collaborations.  
+<!-- https://pdfs.semanticscholar.org/b748/3188ed47ff57ed41ee7fab0628110d40d5fe.pdf -->
