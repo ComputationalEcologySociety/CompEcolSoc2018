@@ -28,13 +28,13 @@ rmarkdown::render('./eventDescription/CEC2018.rmd', 'html_document')
 
 # Computational Ecology Conference
 
-Computational ecology is now a full blown, [emerging science](http://rsfs.royalsocietypublishing.org/content/2/2/241), and the time is ripe for a conference gathering young and innovative minds currently dedicating their research acumen to the development of this exciting field. For students, by students, the event will offer an experience allowing participants to share in a variety of ways through a mix between educational workshops, expert panel discussions, conferences and interactive coding sessions.
+Computational ecology is now recognized as an [emerging science](http://rsfs.royalsocietypublishing.org/content/2/2/241), and the time is ripe for a conference gathering young and innovative minds currently dedicating their research acumen to the development of this exciting field. For students, by students, the event will offer an experience allowing participants to share research and ideas in a variety of ways through a mix between educational workshops, expert panel discussions, conferences and interactive coding sessions.
 
 Over a full week of activities in the beautiful city of Montreal, participants will first be invited to participate to educational workshops. Beginners will have the opportunity to participate to a full two day [Software Carpenty](https://software-carpentry.org/) workshop, while more advanced participants will be able to choose from a selection of [Data Carpentry](http://www.datacarpentry.org/) workshops and special topics in advanced R programming.
 
 The third day will be dedicated to discovering the current state and the future of computational ecology as an emerging science through participant conferences (*i.e.* posters and 5 minutes presentations) and expert panel discussions.
 
-Finally, the last two days of the event will be held in collaboration with [Data for Good](https://www.meetup.com/DataforGood-Montreal/?_cookie-check=FowCtx-gNWyZzv7X) and in the form of a two day hack'a'thon. Projects will aim at tackling computational ecology data problems alongside data scientists from the Montreal region and applied to non profit organizations. Participants will also be invited to participate to a special issue in <!-- PLoS ONE Computational Biology? --> that will be published following this event. 
+Finally, the last two days of the event will be held in collaboration with [Data for Good](https://www.meetup.com/DataforGood-Montreal/?_cookie-check=FowCtx-gNWyZzv7X) in the form of a two day "hackathon". Projects will aim at tackling computational ecology data problems alongside data scientists from the Montreal region and applied to non profit organizations. Participants will also be invited to participate to a special issue in <!-- PLoS ONE Computational Biology? --> that will be published following this event. 
 
 Number of participants will be limited <!-- to 50 participants --> and participants will be selected through a competitive selection process. <!-- makes sense? -->
 
