@@ -30,7 +30,7 @@ rmarkdown::render('./eventDescription/CEC2018.rmd', 'html_document')
 
 Computational ecology is now recognized as an [emerging science](http://rsfs.royalsocietypublishing.org/content/2/2/241), and the time is ripe for a conference gathering young and innovative minds currently dedicating their research acumen to the development of this exciting field. Organized by and tailored for early career scientists, the event will offer an experience allowing participants to share research and ideas in a variety of ways through a mix between educational workshops, expert panel discussions, conferences and interactive coding sessions.
 
-Over a full week of activities in the beautiful city of Montreal, participants will first be invited to participate to educational workshops. Beginners will have the opportunity to participate to a full two day [Software Carpenty](https://software-carpentry.org/) workshop, while more advanced participants will be able to choose from a selection of [Data Carpentry](http://www.datacarpentry.org/) workshops and special topics in advanced R programming.
+Over a full week of activities in the beautiful city of Montreal, participants will first be invited to participate to educational workshops. Beginners will have the opportunity to participate to a full two day [Software Carpenty](https://software-carpentry.org/) workshop, while more advanced participants will be able to choose from a selection of [Data Carpentry](http://www.datacarpentry.org/) workshops and special topics in advanced programming.
 
 The third day will be dedicated to discovering the current state and the future of computational ecology as an emerging science through participant conferences (*i.e.* posters and 5 minutes presentations) and expert panel discussions.
 
